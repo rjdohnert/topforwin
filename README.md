@@ -1,0 +1,1 @@
+Top for Windows is a nod to the UNIX top utility for Windows 11. This binary has been tested on Windows 11, Windows Server 2022 and Windows Server 2025. To install on your system copy top.exe to C:\Windows\system32\
